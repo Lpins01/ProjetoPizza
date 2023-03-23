@@ -5,6 +5,7 @@ Diagramas de Classe, Sequência, Casos de Uso foram feitos através do StarUML.
 
 # Os estudantes responsáveis pelo desenvolvimento são:
 Leonardo Pinheiro de Souza;
+
 Matheus Farias de Oliveira Matsumoto;
 
 # O projeto
